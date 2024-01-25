@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9fb99d90dfadb4b458500f00d9e1fd47
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.11.1R
+  assetPath: Assets/FishNet/package.json
+  uploadId: 615435
